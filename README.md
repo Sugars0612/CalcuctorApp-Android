@@ -48,9 +48,7 @@ UI (Jetpack Compose)
 
 本项目参考以下教程完成：
 
-- [][https://www.youtube.com/watch?v=-aTcFJWxEQA&t=630s]
-
-  [How to Build a Calculator with Jetpack Compose - Android Studio Tutorial](https://www.youtube.com/watch?v=-aTcFJWxEQA&t=630s)
+- [How to Build a Calculator with Jetpack Compose - Android Studio Tutorial](https://www.youtube.com/watch?v=-aTcFJWxEQA&t=630s)
 
 ------
 
